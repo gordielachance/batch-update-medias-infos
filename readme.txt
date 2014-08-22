@@ -1,4 +1,4 @@
-=== XSPF Playlists Generator ===
+=== Batch Update Media Informations ===
 Contributors:grosbouff
 Donate link:http://bit.ly/gbreant
 Tags: batch,medias,media,infos,gallery,update,images,title,description,rename
@@ -16,7 +16,7 @@ This is particulary handfull when you have a large media library that you need t
 
 * Media IDs can be entered as comma-separated values and ranges (524,527,530-539,...)
 * Option to add add a numeral suffix after the medias titles (...#1, ...#2, ...#3)
-* Option to rename files if the plugin [Media File Renamer](https://wordpress.org/plugins/media-file-renamer/) is activated
+* Option to rename files if the plugin [Media File Renamer](https://wordpress.org/plugins/media-file-renamer) is activated
 
 = Contributors =
 [Contributors are listed here](https://github.com/gordielachance/batch-update-medias-infos/contributors)
