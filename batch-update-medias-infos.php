@@ -5,7 +5,7 @@
  * Plugin URI: https://wordpress.org/plugins/batch-update-medias-infos
  * Description: Allows you to update the title / description / filename of a several medias at once
  * Author: G.Breant
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author URI: https://profiles.wordpress.org/grosbouff/
  * License: GPL2+
  * Text Domain: bumi
@@ -22,7 +22,7 @@ class BatchUpdateMediasInfos{
     /**
     * @public string plugin version
     */
-    public $version = '0.1.0';
+    public $version = '1.0.1';
 
     /**
     * @public string plugin DB version
@@ -196,7 +196,6 @@ class BatchUpdateMediasInfos{
         
         ?>
         <div class="wrap">
-            <?php screen_icon(); ?>
             <h2><?php _e('Batch Update Medias','bumi');?></h2>  
             
             

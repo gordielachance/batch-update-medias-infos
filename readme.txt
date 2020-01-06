@@ -3,7 +3,7 @@ Contributors:grosbouff
 Donate link:http://bit.ly/gbreant
 Tags: batch,medias,media,infos,gallery,update,images,title,description,rename
 Requires at least: 3.5
-Tested up to: 4
+Tested up to: 5.3.2
 Stable tag: trunk
 License: GPLv2 or later
 
